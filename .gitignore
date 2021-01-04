@@ -1,0 +1,5 @@
+# VS Code related
+.vscode
+
+# Python notebook checkpoints
+.ipynb_checkpoints
